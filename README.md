@@ -1,2 +1,3 @@
 # hello-world
-first project that serves as a tool for collection of new ideas
+
+I'm a university student at the moment and I want to learn more about Computer Science and programming. That's why I am testing this out.
